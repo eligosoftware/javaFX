@@ -24,7 +24,7 @@ public class Main extends Application {
 //        root.setAlignment(Pos.CENTER);
 //
         primaryStage.setTitle("Hello World");
-        primaryStage.setScene(new Scene(root, 500, 275));
+        primaryStage.setScene(new Scene(root, 800, 500));
 
 //        Label greeting =new Label();
 //        greeting.setTextFill(Color.AQUAMARINE);
